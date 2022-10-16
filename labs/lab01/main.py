@@ -6,7 +6,7 @@ import search as SRCH
 
 
 
-N = 5
+N = 50
 seed = 42
 goal = set(range(N))
 initial = ([])
@@ -41,5 +41,6 @@ path = SRCH.doesSearch(initialState, goalState, parentState, stateCost, problem,
 W = 0
 for p in path:
     W += len(p)
-print (path)
-print(W)
+
+print (f"path = {path}")
+print(f"W = {W}")

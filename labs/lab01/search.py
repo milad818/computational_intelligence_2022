@@ -30,7 +30,7 @@ def doesSearch ( initialStat: state,
                 priorityFunction : callable
                  ):
     # print(len(problem))
-    print(problem)
+    # print(problem)
     frontier = PQ.PriorityQueue()
     parentState.clear()
     stateCost.clear()
