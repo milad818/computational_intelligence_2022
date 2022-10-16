@@ -6,7 +6,7 @@ import search as SRCH
 
 
 
-N = 50
+N = 5
 seed = 42
 goal = set(range(N))
 initial = ([])
