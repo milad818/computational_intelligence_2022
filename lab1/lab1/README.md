@@ -26,10 +26,6 @@ Group Members: Milad Zakhireh, Masoud Karimi
 
 --------------------------------------------------------------
 
-NOTE: In order to see the result run __init__.py
-
---------------------------------------------------------------
-
 Results achieved through the solution discovered are as below:
 
 for N = 5:  
